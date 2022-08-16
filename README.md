@@ -1,6 +1,6 @@
 # Human-Following-Robot
 
-Components Required;-
+Components Required:-
 1) Arduino Board & IDE
 2) Ultrasonic Sensor
 3) 2 x IR Sensors
